@@ -1,0 +1,1 @@
+const botonContacto=document.getElementById("botonContacto"),mensaje=document.getElementById("mensaje");botonContacto.addEventListener("click",function(){mensaje.textContent="\xa1Gracias por visitar mi portafolio!"});
